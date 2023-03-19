@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ed610b-03a7-4e35-b3f7-43154e88c4a9" name="Changes" comment="createApp">
-      <change afterPath="$PROJECT_DIR$/auth-react/src/Components/Account.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-react/src/Components/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-react/src/Components/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-react/src/Components/Protected.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-react/src/Components/SignIn.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-react/src/Context/Context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-react/src/firebase.js" afterDir="false" />
+    <list default="true" id="f8ed610b-03a7-4e35-b3f7-43154e88c4a9" name="Changes" comment="created main auth app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/auth-react/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/auth-react/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/auth-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-react/src/Components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/auth-react/src/Components/Home.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679161280625</updated>
       <workItem from="1679161296126" duration="564000" />
-      <workItem from="1679162096357" duration="16088000" />
+      <workItem from="1679162096357" duration="17448000" />
     </task>
     <task id="LOCAL-00001" summary="createApp">
       <created>1679163034395</created>
@@ -63,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679163034395</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="created main auth app">
+      <created>1679233208195</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679233208195</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="createApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="createApp" />
+    <MESSAGE value="created main auth app" />
+    <option name="LAST_COMMIT_MESSAGE" value="created main auth app" />
   </component>
 </project>
